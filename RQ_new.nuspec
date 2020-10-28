@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>RQ</id>
+        <version>1.0.1</version>
+        <description>This component is a part of dotnet-core-app</description>
+        <authors>Denis Gaina</authors>
+        <owners>Denis Gaina</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    </metadata>
+    <files>
+        <file src="Published\lib\**" target="lib\netstandard3.1" />
+    </files>
+</package>
